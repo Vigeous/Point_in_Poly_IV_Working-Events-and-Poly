@@ -1,3 +1,10 @@
+isim/
+iseconfig/
+planAhead*
+xst/
+ipcore_dir/
+Main_*
+
 #################
 ## Eclipse
 #################
