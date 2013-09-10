@@ -1,7 +1,7 @@
 //`timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: ABS Global
+// Engineer: Shane Peterson
 // 
 // Create Date:    14:02:26 08/21/2012 
 // Design Name: 
