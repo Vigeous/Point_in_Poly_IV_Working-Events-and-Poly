@@ -1,0 +1,30 @@
+NET CLK 				LOC = "P75";
+
+
+//NET HalfUsecCLK 	LOC = "P22";
+//NET Span				LOC = "P69";
+
+//NET DAC<0>			LOC = "P29";
+NET Trig_Out			LOC = "P30";	// Pump Pin
+//NET DAC<2>			LOC = "P31";
+//NET DAC<3>			LOC = "P33";
+//NET DAC<4>			LOC = "P34";
+//NET DAC<5>			LOC = "P35";
+//NET DAC<6>			LOC = "P36";
+NET Event_Out			LOC = "P39";		// Fire Pin
+//NET DAC<8>			LOC = "P40";
+//NET DAC<9>			LOC = "P41";
+//NET DAC<10>			LOC = "P42";
+//NET DAC<11>			LOC = "P45";
+
+//NET CS_Out				LOC = "P28";
+
+
+NET ADC_In<7> LOC = "P48";
+NET ADC_In<6> LOC = "P47";
+NET ADC_In<5> LOC = "P49";
+NET ADC_In<4> LOC = "P51";
+NET ADC_In<3> LOC = "P50";
+NET ADC_In<2> LOC = "P54";
+NET ADC_In<1> LOC = "P57";
+NET ADC_In<0> LOC = "P58";
